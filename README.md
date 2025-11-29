@@ -150,7 +150,17 @@ The system can **dynamically switch the active AI model** if:
 - Sharpe ratio helps estimate risk-adjusted returns  
 - All values shown are simulated under identical market conditions
 
+---
+## 🔥 Polymarket Module — Advanced LLM-Powered Trading & Liquidity Farming
 
+**A new Polymarket module has been added, unlocking fully autonomous, low-latency interaction with Polymarket markets:**
+
+- **LLM-Driven Betting** — Models can now analyze news, politics, sports, and betting companies to autonomously place outcome bets on Polymarket.
+- **Liquidity Farming Automation** — LLMs detect optimal spreads and automatically provide liquidity to farm rewards with maximum efficiency.
+- **Trader Parsing & Analytics** — Built-in parsing engine identifies the strongest performers on Polymarket; LLMs analyze traders' history, behavior, win-rate, and profitability.
+- **Ultra-Fast Copytrading (<50ms)** — Automatically mirrors selected traders with sub-50 ms latency. Servers are colocated near Polymarket infrastructure, giving you a speed advantage over most market participants.
+- **Real-Time Dashboard** — Live performance metrics, positions, PnL, trader analytics, and liquidity stats consolidated in one interface.
+- **Multi-Model Support** — Compatible with ChatGPT, DeepSeek, Gemini, Grok, and Claude.
 ---
 
 ## 🔒 Security
